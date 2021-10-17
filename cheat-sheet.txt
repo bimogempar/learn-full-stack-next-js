@@ -1,0 +1,2 @@
+npm run dev
+knex migrate:latest //migrate schema database
